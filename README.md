@@ -80,3 +80,5 @@ Each engine has its own settings section. Add your API keys in env vars (`.env`)
 - Fine‑grained permissions per skill
 
 Enjoy building Destiny. 💫
+
+Kindly use another name instead of "Destiny" in case you want to publish.
