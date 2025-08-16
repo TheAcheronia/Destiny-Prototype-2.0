@@ -81,4 +81,14 @@ Each engine has its own settings section. Add your API keys in env vars (`.env`)
 
 Enjoy building Destiny. 💫
 
-Kindly use another name instead of "Destiny" in case you want to publish.
+## Kindly use another name instead of "Destiny" in case you want to publish.
+
+
+
+
+## ☕ Support Me
+
+If you like my work, consider supporting me ❤️
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/acheronia)
+
